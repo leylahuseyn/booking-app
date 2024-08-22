@@ -1,0 +1,25 @@
+.home-container {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .floor-plan-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  
+  .room-rect {
+    cursor: pointer;
+    transition: fill 0.3s;
+    color: rgb(252, 234, 212);
+    color: bisque;
+    color: rgb(247, 213, 172);
+    color: rgb(252, 208, 155);
+    color: rgb(253, 208, 152);
+  }
+  
+  .room-rect:hover {
+    opacity: 0.8;
+  }
+  

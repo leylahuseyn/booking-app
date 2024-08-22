@@ -1,0 +1,82 @@
+{
+  "rooms": [
+    {
+      "id": "1",
+      "name": "Room 1",
+      "reservations": [
+        {
+          "id": 1,
+          "reservedBy": "John Doe",
+          "from": "2024-08-25",
+          "to": "2024-08-27",
+          "notes": "Conference"
+        },
+        {
+          "id": 2,
+          "reservedBy": "Sequi expedita ut vo",
+          "from": "0202-08-24",
+          "to": "1990-06-25",
+          "notes": "Aliqua Modi volupta"
+        },
+        {
+          "id": 3,
+          "reservedBy": "Repellendus At eum ",
+          "from": "2001-09-05",
+          "to": "2005-09-17",
+          "notes": "Numquam est beatae "
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Room 2",
+      "reservations": [
+        {
+          "id": 1,
+          "reservedBy": "Voluptatem porro ex",
+          "from": "1996-05-01",
+          "to": "2003-03-28",
+          "notes": "Commodi necessitatib"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Room 3",
+      "reservations": []
+    },
+    {
+      "id": "4",
+      "name": "Room 4",
+      "reservations": [
+        {
+          "id": 1,
+          "reservedBy": "Sed possimus unde s",
+          "from": "2017-10-19",
+          "to": "2023-04-26",
+          "notes": "Sit nesciunt et et "
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Room 5",
+      "reservations": [
+        {
+          "id": 1,
+          "reservedBy": "Et nihil provident ",
+          "from": "1989-03-17",
+          "to": "2001-12-21",
+          "notes": "Tempor saepe non fug"
+        },
+        {
+          "id": 2,
+          "reservedBy": "Accusantium ipsam am",
+          "from": "1980-06-08",
+          "to": "1983-12-09",
+          "notes": "Reprehenderit do opt"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+.room-details-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .reservations-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+  }
+  
+  .reservations-table th,
+  .reservations-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .reservations-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .reservation-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .form-group label {
+    margin-bottom: 5px;
+    text-align: left;
+  }
+  
+  .form-group input {
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  .error-message {
+    color: red;
+    margin-bottom: 15px;
+  }
+  
+  .reservation-form button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
